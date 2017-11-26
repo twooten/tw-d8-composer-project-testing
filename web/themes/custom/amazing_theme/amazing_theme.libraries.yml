@@ -1,0 +1,5 @@
+echo "global-styling:
+    version: VERSION
+    css:
+      theme:
+        css/main.css: {}" > web/themes/custom/amazing_theme/amazing_theme.libraries.yml
